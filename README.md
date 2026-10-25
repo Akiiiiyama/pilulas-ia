@@ -1,35 +1,40 @@
 # Pílulas de IA para designers · AI pills for designers
 
-Um post por semana, publicado no LinkedIn aos domingos, com o que eu aprendi estudando IA, design engineering e front-end. Cada post sai em português e em inglês.
+Um lugar para reunir e compartilhar o que eu aprendo sobre IA, design engineering e front-end, pensando em designers e pessoas de produto. Aqui ficam guias de referência, posts e outros materiais, em português e em inglês.
 
-*One post a week, published on LinkedIn on Sundays, about what I learned studying AI, design engineering and front-end. Every post is in Portuguese and English.*
-
-## Posts
-
-| Data | Post | Formato |
-|---|---|---|
-| | *O primeiro post sai em breve.* | |
+*A place to gather and share what I learn about AI, design engineering and front-end, for designers and product people. It holds reference guides, posts and other materials, in Portuguese and English.*
 
 ## Guias
 
-Materiais de referência que reúnem o que aprendi sobre um tema, para consultar e reaproveitar.
+Materiais de referência sobre um tema, para consultar e reaproveitar.
 
 | Guia | Tema |
 |---|---|
 | [Engenharia de prompts para designers](guias/engenharia-de-prompts/pt.md) | O que é, como o modelo lê um prompt, por que importa para designers e os 5 elementos de um bom prompt |
 
-## Como cada post é guardado
+## Posts
+
+Textos curtos, publicados também no LinkedIn.
+
+| Data | Post | Formato |
+|---|---|---|
+| | *O primeiro post sai em breve.* | |
+
+## Organização
 
 ```
+guias/
+  tema/
+    pt.md        # guia em português
+    en.md        # versão em inglês
 posts/
   AAAA-MM-DD-titulo-curto/
     pt.md        # texto em português, como foi publicado
     en.md        # versão em inglês
-    fontes.md    # links e materiais citados
     assets/      # imagens do carrossel, vídeo ou prints
 ```
 
-Só entram aqui posts que já foram publicados. Rascunhos ficam fora deste repositório. Guias ficam em `guias/tema/`, com `pt.md` e `fontes.md`.
+Só entra aqui conteúdo pronto para compartilhar. Rascunhos ficam fora deste repositório.
 
 ## Licença
 

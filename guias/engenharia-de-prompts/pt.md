@@ -143,6 +143,3 @@ O melhor prompt não é o mais longo. É o que não deixa nada para o modelo adi
 
 Se você sabe escrever um bom briefing, já sabe metade do caminho.
 
----
-
-Fontes em [fontes.md](fontes.md).
