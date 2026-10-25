@@ -1,5 +1,7 @@
 # Engenharia de prompts para designers
 
+*[Read in English](en.md)*
+
 > O que é, por que importa e como escrever prompts que não deixam nada para a IA adivinhar.
 
 ## Resumo

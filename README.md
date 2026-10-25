@@ -8,9 +8,9 @@ Um lugar para reunir e compartilhar o que eu aprendo sobre IA, design engineerin
 
 Materiais de referência sobre um tema, para consultar e reaproveitar.
 
-| Guia | Tema |
-|---|---|
-| [Engenharia de prompts para designers](guias/engenharia-de-prompts/pt.md) | O que é, como o modelo lê um prompt, por que importa para designers e os 5 elementos de um bom prompt |
+| Guia | Tema | Idiomas |
+|---|---|---|
+| Engenharia de prompts para designers | O que é, como o modelo lê um prompt, por que importa para designers e os 5 elementos de um bom prompt | [Português](guias/engenharia-de-prompts/pt.md) · [English](guias/engenharia-de-prompts/en.md) |
 
 ## Posts
 
