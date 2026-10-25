@@ -10,6 +10,14 @@ Um post por semana, publicado no LinkedIn aos domingos, com o que eu aprendi est
 |---|---|---|
 | | *O primeiro post sai em breve.* | |
 
+## Guias
+
+Materiais de referência que reúnem o que aprendi sobre um tema, para consultar e reaproveitar.
+
+| Guia | Tema |
+|---|---|
+| [Engenharia de prompts para designers](guias/engenharia-de-prompts/pt.md) | O que é, como o modelo lê um prompt, por que importa para designers e os 5 elementos de um bom prompt |
+
 ## Como cada post é guardado
 
 ```
@@ -21,7 +29,7 @@ posts/
     assets/      # imagens do carrossel, vídeo ou prints
 ```
 
-Só entram aqui posts que já foram publicados. Rascunhos ficam fora deste repositório.
+Só entram aqui posts que já foram publicados. Rascunhos ficam fora deste repositório. Guias ficam em `guias/tema/`, com `pt.md` e `fontes.md`.
 
 ## Licença
 
