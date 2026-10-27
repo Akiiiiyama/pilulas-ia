@@ -12,6 +12,14 @@ Materiais de referência sobre um tema, para consultar e reaproveitar.
 |---|---|---|
 | Engenharia de prompts para designers | O que é, como o modelo lê um prompt, por que importa para designers e os 5 elementos de um bom prompt | [Português](guias/engenharia-de-prompts/pt.md) · [English](guias/engenharia-de-prompts/en.md) |
 
+## Vídeos
+
+Entrevistas, podcasts e palestras que assisti, com o que aprendi com cada um.
+
+| Vídeo | Quem | Temas | Idiomas |
+|---|---|---|---|
+| Designing Claude Code (and what's coming next) | Meaghan Choi, Design Lead do Claude Code na Anthropic | Prototipação com artefatos, do protótipo ao PR, papel do designer | [Português](videos/meaghan-choi-designing-claude-code/pt.md) · [English](videos/meaghan-choi-designing-claude-code/en.md) |
+
 ## Posts
 
 Textos curtos, publicados também no LinkedIn.
@@ -26,6 +34,10 @@ Textos curtos, publicados também no LinkedIn.
 guias/
   tema/
     pt.md        # guia em português
+    en.md        # versão em inglês
+videos/
+  pessoa-titulo-curto/
+    pt.md        # resumo, insights e o que vou aplicar
     en.md        # versão em inglês
 posts/
   AAAA-MM-DD-titulo-curto/
