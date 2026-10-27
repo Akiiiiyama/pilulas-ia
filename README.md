@@ -11,6 +11,7 @@ Materiais de referência sobre um tema, para consultar e reaproveitar.
 | Guia | Tema | Idiomas |
 |---|---|---|
 | Engenharia de prompts para designers | O que é, como o modelo lê um prompt, por que importa para designers e os 5 elementos de um bom prompt | [Português](guias/engenharia-de-prompts/pt.md) · [English](guias/engenharia-de-prompts/en.md) |
+| Vídeo de marca em motion com IA | Do briefing ao MP4: estratégia (arco e objeto-herói), design system, música na batida e conferência de quadros | [Português](guias/video-motion-com-ia/pt.md) · [English](guias/video-motion-com-ia/en.md) |
 
 ## Vídeos
 
