@@ -145,3 +145,6 @@ O melhor prompt não é o mais longo. É o que não deixa nada para o modelo adi
 
 Se você sabe escrever um bom briefing, já sabe metade do caminho.
 
+---
+
+Próximo passo: [Agentes e modelos do Claude](../agentes-e-modelos/pt.md).
