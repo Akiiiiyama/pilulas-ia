@@ -144,3 +144,7 @@ The request is the same. The difference is that, in the second one, the model do
 The best prompt isn't the longest one. It's the one that leaves nothing for the model to guess.
 
 If you can write a good brief, you're already halfway there.
+
+---
+
+Next: [Claude agents and models](../agentes-e-modelos/en.md).
