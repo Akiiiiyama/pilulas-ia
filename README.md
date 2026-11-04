@@ -13,6 +13,7 @@ Materiais de referência sobre um tema, para consultar e reaproveitar.
 | Engenharia de prompts para designers | O que é, como o modelo lê um prompt, por que importa para designers e os 5 elementos de um bom prompt | [Português](guias/engenharia-de-prompts/pt.md) · [English](guias/engenharia-de-prompts/en.md) |
 | Agentes e modelos do Claude | Chat × workflow × agente, como o agente atua no LLM, o que muda no prompt e como escolher entre Fable, Opus, Sonnet e Haiku | [Português](guias/agentes-e-modelos/pt.md) · [English](guias/agentes-e-modelos/en.md) |
 | Vídeo de marca em motion com IA | Do briefing ao MP4: estratégia (arco e objeto-herói), design system, música na batida e conferência de quadros | [Português](guias/video-motion-com-ia/pt.md) · [English](guias/video-motion-com-ia/en.md) |
+| Reel de Design Engineer com tipografia cinética | Reel de 14s em 7 cenas na batida, design e código lado a lado, música sem voz, versões 9:16 e 16:9 | [Português](guias/reel-design-engineer/pt.md) · [English](guias/reel-design-engineer/en.md) |
 
 ## Vídeos
 
