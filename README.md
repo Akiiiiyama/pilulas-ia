@@ -14,6 +14,8 @@ Materiais de referência sobre um tema, para consultar e reaproveitar.
 | Agentes e modelos do Claude | Chat × workflow × agente, como o agente atua no LLM, o que muda no prompt e como escolher entre Fable, Opus, Sonnet e Haiku | [Português](guias/agentes-e-modelos/pt.md) · [English](guias/agentes-e-modelos/en.md) |
 | Vídeo de marca em motion com IA | Do briefing ao MP4: estratégia (arco e objeto-herói), design system, música na batida e conferência de quadros | [Português](guias/video-motion-com-ia/pt.md) · [English](guias/video-motion-com-ia/en.md) |
 | Reel de Design Engineer com tipografia cinética | Reel de 14s em 7 cenas na batida, design e código lado a lado, música sem voz, versões 9:16 e 16:9 | [Português](guias/reel-design-engineer/pt.md) · [English](guias/reel-design-engineer/en.md) |
+| Protótipo como prompt | Teste A/B dos code layers do Figma com e sem conexões de protótipo, valores fixos × variáveis e checklist para revisar código gerado | [Português](guias/prototipo-como-prompt/pt.md) · [English](guias/prototipo-como-prompt/en.md) |
+| Variáveis do Figma e CSS variables | O que são CSS variables, como saber se o código gerado usou os tokens do design system, exemplos de × para e onde conferir (Figma, código e navegador) | [Português](guias/variaveis-figma-e-css/pt.md) · [English](guias/variaveis-figma-e-css/en.md) |
 
 ## Vídeos
 
