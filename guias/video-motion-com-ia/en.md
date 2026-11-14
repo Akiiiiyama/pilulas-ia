@@ -113,4 +113,4 @@ Each phrase should stay **fully on screen for at least 1.5 seconds**. In the exa
 
 ---
 
-For Claude Code users, the whole process is packaged in the [`brand-motion-intro`](https://github.com/Akiiiiyama/skills-para-designers/tree/main/skills/brand-motion-intro) skill, in the *skills-para-designers* repo, with the render, beat-analysis, audio-splice and frame-scan scripts.
+For Claude Code users, the whole process is packaged in the [`brand-motion-intro`](https://github.com/Akiiiiyama/skills-para-designers/tree/main/skills/01-explore/brand-motion-intro) skill, in the *skills-para-designers* repo, with the render, beat-analysis, audio-splice and frame-scan scripts.

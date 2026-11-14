@@ -113,4 +113,4 @@ Cada frase precisa ficar **inteira na tela por pelo menos 1,5 segundo**. No exem
 
 ---
 
-Para quem usa o Claude Code, o processo inteiro está empacotado na skill [`brand-motion-intro`](https://github.com/Akiiiiyama/skills-para-designers/tree/main/skills/brand-motion-intro), do repositório *skills-para-designers*, com os scripts de render, análise de batida, emenda de áudio e varredura de quadros.
+Para quem usa o Claude Code, o processo inteiro está empacotado na skill [`brand-motion-intro`](https://github.com/Akiiiiyama/skills-para-designers/tree/main/skills/01-explore/brand-motion-intro), do repositório *skills-para-designers*, com os scripts de render, análise de batida, emenda de áudio e varredura de quadros.

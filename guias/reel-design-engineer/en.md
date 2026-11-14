@@ -29,7 +29,7 @@
 
 ## 2. Step by step with Claude Code
 
-1. **Install the skill** [`brand-motion-intro`](https://github.com/Akiiiiyama/skills-para-designers/tree/main/skills/brand-motion-intro). The full recipe for this reel is in `references/kinetic-reel.md`.
+1. **Install the skill** [`brand-motion-intro`](https://github.com/Akiiiiyama/skills-para-designers/tree/main/skills/01-explore/brand-motion-intro). The full recipe for this reel is in `references/kinetic-reel.md`.
 2. **Ask with context.** Example:
    > Act as a craft design expert and take inspiration from this video, always coming back to Design Engineer. 14 s vertical reel. Roles in order: Design Engineer, then Product Designer. Use my portfolio's design system and ~/Downloads/track.mp3, only the part before the vocals.
 3. **Approve the proposal before any code.** Claude analyzes the reference and proposes the scenes. Adjust order and wording here, where it is cheapest.

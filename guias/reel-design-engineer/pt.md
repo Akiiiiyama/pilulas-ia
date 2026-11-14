@@ -29,7 +29,7 @@
 
 ## 2. Passo a passo com o Claude Code
 
-1. **Instale a skill** [`brand-motion-intro`](https://github.com/Akiiiiyama/skills-para-designers/tree/main/skills/brand-motion-intro). O roteiro completo deste reel está em `references/kinetic-reel.md`.
+1. **Instale a skill** [`brand-motion-intro`](https://github.com/Akiiiiyama/skills-para-designers/tree/main/skills/01-explore/brand-motion-intro). O roteiro completo deste reel está em `references/kinetic-reel.md`.
 2. **Peça com contexto.** Exemplo:
    > Atue como especialista em craft design e se inspire neste vídeo, sempre voltando para Design Engineer. Reel vertical de 14s. Papéis em ordem: Design Engineer e depois Product Designer. Use o design system do meu portfólio e a música ~/Downloads/musica.mp3, só o trecho antes da voz.
 3. **Aprove a proposta antes do código.** O Claude analisa a referência e propõe as cenas. Ajuste a ordem e as frases aqui, que é o momento mais barato.
