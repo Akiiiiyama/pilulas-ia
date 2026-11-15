@@ -1,3 +1,8 @@
+---
+data: 2026-10-27
+temas: [agentes, prompts, claude]
+---
+
 # Claude agents and models, for designers
 
 *[Leia em português](pt.md)*

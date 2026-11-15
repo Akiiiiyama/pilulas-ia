@@ -1,12 +1,12 @@
 # Pílulas de IA para designers · AI pills for designers
 
-Um lugar para reunir e compartilhar o que eu aprendo sobre IA, design engineering e front-end, pensando em designers e pessoas de produto. Aqui ficam guias de referência, posts e outros materiais, em português e em inglês.
+Um lugar para reunir e compartilhar o que eu aprendo sobre IA, design engineering e front-end, pensando em designers e pessoas de produto. Aqui ficam guias e artigos, em português e em inglês.
 
-*A place to gather and share what I learn about AI, design engineering and front-end, for designers and product people. It holds reference guides, posts and other materials, in Portuguese and English.*
+*A place to gather and share what I learn about AI, design engineering and front-end, for designers and product people. It holds guides and articles, in Portuguese and English.*
 
 ## Guias
 
-Materiais de referência sobre um tema, para consultar e reaproveitar.
+Para fazer junto: passo a passo, prompts para copiar, checklists e erros comuns. São atualizados quando a ferramenta muda.
 
 | Guia | Tema | Idiomas |
 |---|---|---|
@@ -17,21 +17,13 @@ Materiais de referência sobre um tema, para consultar e reaproveitar.
 | Protótipo como prompt | Teste A/B dos code layers do Figma com e sem conexões de protótipo, valores fixos × variáveis e checklist para revisar código gerado | [Português](guias/prototipo-como-prompt/pt.md) · [English](guias/prototipo-como-prompt/en.md) |
 | Variáveis do Figma e CSS variables | O que são CSS variables, como saber se o código gerado usou os tokens do design system, exemplos de × para e onde conferir (Figma, código e navegador) | [Português](guias/variaveis-figma-e-css/pt.md) · [English](guias/variaveis-figma-e-css/en.md) |
 
-## Vídeos
+## Artigos
 
-Entrevistas, podcasts e palestras que assisti, com o que aprendi com cada um.
+O que eu penso sobre um tema: opinião, reflexão ou o que tirei de uma palestra, vídeo ou leitura. Ficam com a data em que foram escritos. Também estão no meu site, em [isabelayukari.com](https://isabelayukari.com/pt/escritos).
 
-| Vídeo | Quem | Temas | Idiomas |
-|---|---|---|---|
-| Designing Claude Code (and what's coming next) | Meaghan Choi, Design Lead do Claude Code na Anthropic | Prototipação com artefatos, do protótipo ao PR, papel do designer | [Português](videos/meaghan-choi-designing-claude-code/pt.md) · [English](videos/meaghan-choi-designing-claude-code/en.md) |
-
-## Posts
-
-Textos curtos, publicados também no LinkedIn.
-
-| Data | Post | Formato |
+| Artigo | Tema | Idiomas |
 |---|---|---|
-| | *O primeiro post sai em breve.* | |
+| Do artefato ao PR: como a Meaghan Choi desenha o Claude Code | O podcast Dive Club com a design lead do Claude Code: forma antes da tela, artefato como protótipo e registro de decisão, do protótipo ao PR e o papel do designer | [Português](artigos/do-artefato-ao-pr/pt.md) · [English](artigos/do-artefato-ao-pr/en.md) |
 
 ## Organização
 
@@ -40,16 +32,31 @@ guias/
   tema/
     pt.md        # guia em português
     en.md        # versão em inglês
-videos/
-  pessoa-titulo-curto/
-    pt.md        # resumo, insights e o que vou aplicar
+artigos/
+  titulo-curto/
+    pt.md        # artigo em português
     en.md        # versão em inglês
-posts/
-  AAAA-MM-DD-titulo-curto/
-    pt.md        # texto em português, como foi publicado
-    en.md        # versão em inglês
-    assets/      # imagens do carrossel, vídeo ou prints
 ```
+
+Um modelo que sirva para quem lê (um prompt base, um checklist) fica dentro do guia ou do artigo que explica por que ele é assim, nunca solto numa pasta.
+
+Cada texto começa com um cabeçalho curto que o site usa para montar a lista:
+
+```yaml
+---
+data: 2026-11-11          # quando foi publicado
+temas: [figma, design-to-code]
+rascunho: true            # opcional, só para revisar localmente: o texto não vai para o site
+fonte:                    # opcional, para artigos sobre o conteúdo de outra pessoa
+  titulo: Designing Claude Code (and what's coming next)
+  quem: Meaghan Choi
+  onde: Podcast Dive Club, com Michael Riddering (Ridd)
+  link: https://www.youtube.com/watch?v=jEEbjiC4JE0
+linkedin: https://...     # opcional, o post em que o texto foi compartilhado
+---
+```
+
+O título vem do `#` e o resumo vem da primeira citação (`>`), então não precisam ser repetidos no cabeçalho.
 
 Só entra aqui conteúdo pronto para compartilhar. Rascunhos ficam fora deste repositório.
 

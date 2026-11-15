@@ -1,3 +1,8 @@
+---
+data: 2026-11-11
+temas: [figma, design-to-code]
+---
+
 # Prototype as prompt: testing design to code with Figma code layers
 
 *[Leia em português](pt.md)*

@@ -1,3 +1,8 @@
+---
+data: 2026-10-27
+temas: [motion, claude-code]
+---
+
 # Vídeo de marca em motion com IA
 
 *[Read in English](en.md)*
