@@ -1,3 +1,8 @@
+---
+data: 2026-10-25
+temas: [prompts]
+---
+
 # Prompt engineering for designers
 
 *[Leia em português](pt.md)*

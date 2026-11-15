@@ -1,3 +1,8 @@
+---
+data: 2026-11-11
+temas: [figma, design-system, front-end]
+---
+
 # Figma variables and CSS variables: how to tell if your design system made it into the code
 
 *[Leia em português](pt.md)*

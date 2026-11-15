@@ -1,3 +1,8 @@
+---
+data: 2026-10-25
+temas: [prompts]
+---
+
 # Engenharia de prompts para designers
 
 *[Read in English](en.md)*

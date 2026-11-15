@@ -1,3 +1,8 @@
+---
+data: 2026-11-03
+temas: [motion, claude-code]
+---
+
 # Design Engineer reel with kinetic type
 
 *[Leia em português](pt.md)*

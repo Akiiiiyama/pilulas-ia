@@ -1,3 +1,8 @@
+---
+data: 2026-11-03
+temas: [motion, claude-code]
+---
+
 # Reel de Design Engineer com tipografia cinética
 
 *[Read in English](en.md)*
