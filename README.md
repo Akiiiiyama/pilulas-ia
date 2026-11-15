@@ -24,6 +24,7 @@ O que eu penso sobre um tema: opinião, reflexão ou o que tirei de uma palestra
 | Artigo | Tema | Idiomas |
 |---|---|---|
 | Do artefato ao PR: como a Meaghan Choi desenha o Claude Code | O podcast Dive Club com a design lead do Claude Code: forma antes da tela, artefato como protótipo e registro de decisão, do protótipo ao PR e o papel do designer | [Português](artigos/do-artefato-ao-pr/pt.md) · [English](artigos/do-artefato-ao-pr/en.md) |
+| O design nunca mais vai ser o mesmo | A palestra da Meaghan Choi na uxcon vienna: o que mudou no processo, decidir o que vale construir e quando está pronto, por que programar não basta e julgamento no lugar de "taste" | [Português](artigos/design-nunca-mais-o-mesmo/pt.md) · [English](artigos/design-nunca-mais-o-mesmo/en.md) |
 
 ## Organização
 
