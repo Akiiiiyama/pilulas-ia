@@ -16,6 +16,7 @@ Para fazer junto: passo a passo, prompts para copiar, checklists e erros comuns.
 | Reel de Design Engineer com tipografia cinética | Reel de 14s em 7 cenas na batida, design e código lado a lado, música sem voz, versões 9:16 e 16:9 | [Português](guias/reel-design-engineer/pt.md) · [English](guias/reel-design-engineer/en.md) |
 | Protótipo como prompt | Teste A/B dos code layers do Figma com e sem conexões de protótipo, valores fixos × variáveis e checklist para revisar código gerado | [Português](guias/prototipo-como-prompt/pt.md) · [English](guias/prototipo-como-prompt/en.md) |
 | Variáveis do Figma e CSS variables | O que são CSS variables, como saber se o código gerado usou os tokens do design system, exemplos de × para e onde conferir (Figma, código e navegador) | [Português](guias/variaveis-figma-e-css/pt.md) · [English](guias/variaveis-figma-e-css/en.md) |
+| GitHub para designers | Main, branch, commit, push, PR, merge e tag sem medo de quebrar o código: os 3 lugares da mudança, o fluxo à mão e pela IA, o trabalho com o time, mudar algo no meio do projeto, conflito, desfazer e boas práticas | [Português](guias/github-para-designers/pt.md) · [English](guias/github-para-designers/en.md) |
 
 ## Artigos
 
