@@ -1,6 +1,10 @@
 ---
 data: 2026-11-22
 temas: [github, design-engineering, colaboracao]
+video:
+  arquivo: video/github-em-8-palavras.mp4
+  capa: video/github-em-8-palavras.jpg
+  legenda: GitHub in 8 words, in 30 seconds and without sound: main, the branch, the commits on your machine, the push to GitHub, the pull request with a review, the merge and the tag. The words in the video are in Portuguese.
 ---
 
 # GitHub for designers: main, branch, commit, push, PR, merge and tag without the fear of breaking the code
